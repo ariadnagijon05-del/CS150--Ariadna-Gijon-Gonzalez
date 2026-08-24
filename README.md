@@ -1,2 +1,2 @@
 # CS150--Ariadna-Gijon-Gonzalez
-# For My CS150 Class.
+## This is a repository for my assignments in my CS 150 class.
